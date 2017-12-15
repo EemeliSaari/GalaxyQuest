@@ -3,3 +3,7 @@ build*/
 GalaxyGame/GalaxyGame.pro.user
 GalaxyGame/html/
 GalaxyGame/Course
+GalaxyGame/CourseTests
+GalaxyGame/Doxyfile_eng
+GalaxyGame/Doxyfile_fin
+.gitlab-ci.yml
