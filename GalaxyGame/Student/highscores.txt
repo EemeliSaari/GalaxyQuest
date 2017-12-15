@@ -1,0 +1,10 @@
+Aatos 20000
+Eemeli 100
+unnamed 50
+unnamed 30
+EMPTY 0
+EMPTY 0
+EMPTY 0
+EMPTY 0
+EMPTY 0
+EMPTY 0

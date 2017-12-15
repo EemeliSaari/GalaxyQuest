@@ -1,0 +1,5 @@
+build*/
+*.autosave
+GalaxyGame/GalaxyGame.pro.user
+GalaxyGame/html/
+GalaxyGame/Course

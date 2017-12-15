@@ -1,0 +1,18 @@
+# Determin the stages
+stages:
+    - studentTest
+
+# Build the stages
+build:
+  stage: studentTest
+  script: 
+    # Navigate to the right folder
+    - cd GalaxyGame/StudentTests
+    # Run the qmake file
+    - qmake -makefile
+    # run the make command
+    - make
+    # Run the binary
+    - ./Statistics/statisticstest
+  tags:
+    - qt
